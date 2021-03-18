@@ -1,0 +1,34 @@
+.body{
+    height: 50px;
+    width: 220px;
+}
+
+.answerText{
+    height: 15pt;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+input{
+    display: inline-block;
+    vertical-align:middle;
+}
+
+.question{
+    margin: 10px;
+}
+
+.answer{
+    margin: 5px;
+}
+
+#btnContainer{
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+button{
+    margin: 5px;
+}
+#backBtn{
+    margin-left: 20px;
+}

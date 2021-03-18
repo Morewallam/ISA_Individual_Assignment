@@ -1,0 +1,40 @@
+.correct{
+    background-color: greenyellow;
+}
+
+.incorrect{
+    background-color: crimson;
+}
+
+.body{
+    height: 50px;
+    width: 220px;
+}
+
+.answerText{
+    height: 15pt;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+input{
+    display: inline-block;
+    vertical-align:middle;
+}
+
+.question{
+    margin: 10px;
+}
+
+.answer{
+    margin: 5px;
+}
+#submitBtn{
+    display: block;
+    margin-left: 20px;
+}
+#backBtn{
+    margin:20px;
+}
+
+
